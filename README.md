@@ -1,5 +1,7 @@
 # Bem-Vindos ao meu GitHub! 🤖
-![HappyBirthdayGIF](https://github.com/user-attachments/assets/c5bc94ff-ff39-48e2-896e-dea6070f1759)
+
+![WowGIF](https://github.com/user-attachments/assets/6a09f8ed-c373-4ff1-908e-2f4b0cf1b892)
+
 -------------
 
 😄 Me chamo Gustavo Grigorio de Lima, prazer!<br>
