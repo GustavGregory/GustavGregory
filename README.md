@@ -13,7 +13,7 @@
 ----------
 ### Meus Certificados Internacionais
 
-1. [Linux Experience.pdf](https://github.com/user-attachments/files/16645138/Linux.Experience.pdf) 
+1. [Linux Experience](https://github.com/user-attachments/files/16645138/Linux.Experience.pdf) 
 2. [DevOps Fundamentals](https://github.com/user-attachments/files/16340336/DevOps.Fuundamentals.pdf)<br>
 3. [AI-900 Microsoft Azure](https://github.com/user-attachments/files/16340341/AI-900.pdf)<br>
 4. [Formação GitHub Fundamentals](https://github.com/user-attachments/files/16377633/formacaoGitHub.pdf)
