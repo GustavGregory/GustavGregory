@@ -12,13 +12,14 @@
 
 ----------
 ### Meus Certificados Internacionais
-       
-1. [DevOps Fundamentals](https://github.com/user-attachments/files/16340336/DevOps.Fuundamentals.pdf)<br>
-2. [AI-900 Microsoft Azure](https://github.com/user-attachments/files/16340341/AI-900.pdf)<br>
-3. [Formação GitHub Fundamentals](https://github.com/user-attachments/files/16377633/formacaoGitHub.pdf)
-4. [Java - Oracle Fundamentals](https://github.com/user-attachments/files/16340344/Java.-.Oracle.Fundamentals.pdf)<br>
-5. [BootCamp VIVO - Python AI Backend Developer](https://github.com/user-attachments/files/16340356/BootCamp.VIVO-DIO.Python.AI.Backend.DeveloperZHMY4ZWH.pdf)<br>
-6. [BootCamp NEXA - Machine Learning na AWS](https://github.com/user-attachments/files/16340358/BootCamp.NEXA-MachineLearningAWS.pdf)<br>
+
+1. [Linux Experience.pdf](https://github.com/user-attachments/files/16645138/Linux.Experience.pdf) 
+2. [DevOps Fundamentals](https://github.com/user-attachments/files/16340336/DevOps.Fuundamentals.pdf)<br>
+3. [AI-900 Microsoft Azure](https://github.com/user-attachments/files/16340341/AI-900.pdf)<br>
+4. [Formação GitHub Fundamentals](https://github.com/user-attachments/files/16377633/formacaoGitHub.pdf)
+5. [Java - Oracle Fundamentals](https://github.com/user-attachments/files/16340344/Java.-.Oracle.Fundamentals.pdf)<br>
+6. [BootCamp VIVO - Python AI Backend Developer](https://github.com/user-attachments/files/16340356/BootCamp.VIVO-DIO.Python.AI.Backend.DeveloperZHMY4ZWH.pdf)<br>
+7. [BootCamp NEXA - Machine Learning na AWS](https://github.com/user-attachments/files/16340358/BootCamp.NEXA-MachineLearningAWS.pdf)<br>
 
 ### Certificados Nacionais
 1. [SENAI - Ética na Inteligência Artificial](https://github.com/user-attachments/files/16340379/SENAI.-.Etica.na.Inteligencia.Artificial.sem.o.RG.pdf)<br>
