@@ -3,10 +3,10 @@
 ![WowGIF](https://github.com/user-attachments/assets/6a09f8ed-c373-4ff1-908e-2f4b0cf1b892)
 
 -------------
-
+              
 😄 Me chamo Gustavo Grigorio de Lima, prazer!<br>
-💬 Atualmente trabalho como OP de Telemarketing Ativo<br>
-🌱 Cursando Ensino Superior no 2° Semestre em Redes de Computadores<br>
+💬 Atualmente trabalho como Vendedor Interno (Televendas)<br>
+🌱 Cursando Ensino Superior no 3° Semestre em Redes de Computadores<br>
 🧠 Estudando muito para me tornar um DevOps<br>
 📫 [LinkedIn](https://www.linkedin.com/in/gustavo-grigorio-de-lima)
 
