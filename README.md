@@ -3,9 +3,9 @@
 -------------
               
 😄 Me chamo Gustavo Grigorio de Lima, prazer!<br>
-💬 Atualmente trabalho como Vendedor Interno (Televendas)<br>
-🌱 Cursando Ensino Superior no 3° Semestre em Redes de Computadores<br>
-🧠 Estudando muito para me tornar um DevOps<br>
+💬 Atualmente trabalho como Operador de Telemarketing Ativo<br>
+🌱 Cursando Ensino Superior no 4° Semestre em Redes de Computadores<br>
+🧠 Estudando muito para me tornar um Profissional de Tecnologia da Informação<br>
 📫 [LinkedIn](https://www.linkedin.com/in/gustavo-grigorio-de-lima)
 
 ----------
